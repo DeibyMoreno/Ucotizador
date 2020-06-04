@@ -46,7 +46,7 @@ function App() {
 
   return (
     <Fragment>
-      <Header titulo="Cotizador de seguros"/>
+      <Header titulo="Cotizador de seguross"/>
       <div className="container">
         <div className="row" style={{height:'100vh'}}>
           <div style={{position:'fixed', height: '100%', width: '100%', top:'62px',left:'0px'}}>
